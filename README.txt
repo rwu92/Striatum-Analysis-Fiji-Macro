@@ -1,10 +1,3 @@
-STRIATUM FLUORESCENCE QUANTIFICATION - HOW TO USE THIS TOOL
-=============================================================
-
-This guide assumes you know nothing about coding. Just follow the
-steps in order.
-
-
 WHAT THIS TOOL DOES
 -------------------
 You have microscope images of striatum tissue. This tool helps you:
